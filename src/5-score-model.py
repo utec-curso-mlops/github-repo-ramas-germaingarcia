@@ -1,0 +1,1 @@
+# funcionalidad para scorear modelos que vana  funcionar
